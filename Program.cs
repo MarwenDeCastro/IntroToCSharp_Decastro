@@ -1,9 +1,5 @@
 ﻿using System;
 
-/* * Prelim Activity 01: Codac Logistics Delivery & Fuel Auditor
- * By: Marwen C. De Castro
- * Description: A simple program to track a driver's weekly fuel and distance.
- */
 
 Console.WriteLine("=== Codac Logistics Delivery & Fuel Auditor ===");
 
